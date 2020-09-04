@@ -1,4 +1,4 @@
-def greet_characters(array)
+  AQQQ`1def greet_characters(array)
   # Use `each` to enumerate over the provided array
   array.each do |character|
     puts "Hello #{character}!"
